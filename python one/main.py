@@ -1,9 +1,8 @@
 numbers=[1,2,3,4,5,6,7,8,9,10]
 
 # method 1
-if 8 in numbers:
-    position = numbers.index(8)
-    print(position)
+if 0>5:
+    print("hello")
 
 
 # method 2
@@ -63,3 +62,6 @@ elif numbers[4]==a or numbers[-5]==a:
         print(4)
     else:
         print(5)
+
+
+
