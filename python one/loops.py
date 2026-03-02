@@ -17,3 +17,11 @@ while i<4:
     i += 1
 
 print(names)
+
+
+
+names=[]
+l=0
+while l<10:
+    names.append("Sabah")
+    l += 1
